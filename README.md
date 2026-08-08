@@ -21,7 +21,7 @@
 
 **I don't just use technology — I like figuring out how it works.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ranger-elm)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)](https://laravel.com/)
 
@@ -73,22 +73,103 @@ I enjoy projects where I can go beyond simply writing code and actually understa
 
 ---
 
+# 🎓 `EDUCATION & GOALS`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  🏫 SCHOOL        : Shahid Beheshti High School, Bushehr    │
+│  📐 FIELD         : Mathematics & Physics                    │
+│  🎯 TARGET        : Sharif University of Technology          │
+│  🚀 DIRECTION     : Computer Science / Software Engineering  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### 📚 `ACADEMIC_PATH`
+
+**🏫 High School:** Shahid Beheshti High School — Bushehr, Iran
+**📐 Field:** Mathematics & Physics
+**🎓 University Goal:** Sharif University of Technology
+**💻 Long-Term Direction:** Computer Science & Software Engineering
+
+> **From mathematics and problem solving → to algorithms, software and technology.**
+
+I'm currently working on strengthening my **mathematical thinking, problem-solving skills and programming foundations** while exploring the world of software development.
+
+My goal isn't simply to get into university — I want to use the years ahead to build a strong foundation in **computer science, programming and engineering** and eventually create things that are genuinely useful.
+
+---
+
+## 🧭 `ROADMAP`
+
+```text
+                    ┌─────────────────────┐
+                    │   🏫 HIGH SCHOOL    │
+                    │   Shahid Beheshti   │
+                    │       Bushehr       │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │  📐 MATHEMATICS     │
+                    │  & PROBLEM SOLVING  │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   💻 PROGRAMMING    │
+                    │   & SOFTWARE        │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │  🎓 SHARIF UNIV.    │
+                    │    OF TECHNOLOGY    │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   🚀 BUILD / LEARN  │
+                    │   / EXPLORE / GROW  │
+                    └─────────────────────┘
+```
+
+### ⚡ `CURRENT_OBJECTIVES`
+
+```text
+[✓] Strengthen mathematical foundations
+[✓] Improve problem-solving skills
+[✓] Build real programming projects
+[→] Become stronger in backend development
+[→] Learn Linux & developer tooling
+[→] Explore Docker & DevOps
+[→] Explore AI & modern development
+[→] Prepare for the next academic chapter
+[★] Reach Sharif University of Technology
+```
+
+> **The destination is important. The skills built along the way matter even more.**
+
+---
+
 # 🧠 `CURRENTLY_LEARNING`
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  🌐 WEB DEVELOPMENT     ████████████████░░░░  80%           │
-│  ⚙️ BACKEND             ██████████████░░░░░░  70%           │
-│  🗄️ DATABASES           ████████████░░░░░░░░  60%           │
-│  🐧 LINUX               ████████░░░░░░░░░░░░  40%           │
-│  🐳 DOCKER              ██████░░░░░░░░░░░░░░  30%           │
-│  🤖 AI / DEV TOOLS      ██████░░░░░░░░░░░░░░  30%           │
+│  🌐 WEB DEVELOPMENT     ████████░░░░░░░░░░░░  40%           │
+│  ⚙️ BACKEND             ███████░░░░░░░░░░░░░  35%           │
+│  🗄️ DATABASES           ██████░░░░░░░░░░░░░░  30%           │
+│  🐍 PYTHON              ███░░░░░░░░░░░░░░░░░  15%           │
+│  🐧 LINUX               ████░░░░░░░░░░░░░░░░  20%           │
+│  🐳 DOCKER              ███░░░░░░░░░░░░░░░░░  15%           │
+│  🤖 AI / DEV TOOLS      ██░░░░░░░░░░░░░░░░░░  10%           │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-> *The percentages aren't skill scores — they're simply a snapshot of what I'm focusing on.*
+> *The percentages aren't skill scores — they're simply a snapshot of what I'm currently focusing on.*
 
 ---
 
@@ -98,6 +179,7 @@ I enjoy projects where I can go beyond simply writing code and actually understa
 
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
@@ -267,6 +349,6 @@ If you found something interesting in my repositories,
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ranger-elm\&style=for-the-badge)
 
 </div>
