@@ -81,7 +81,7 @@ I enjoy projects where I can go beyond simply writing code and actually understa
 │  🏫 SCHOOL        : Shahid Beheshti High School, Bushehr    │
 │  📐 FIELD         : Mathematics & Physics                    │
 │  🎯 TARGET        : Sharif University of Technology          │
-│  🚀 DIRECTION     : Computer Science / Software Engineering  │
+│  🚀 DIRECTION     : Computer Engineering   │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -91,7 +91,7 @@ I enjoy projects where I can go beyond simply writing code and actually understa
 **🏫 High School:** Shahid Beheshti High School — Bushehr, Iran
 **📐 Field:** Mathematics & Physics
 **🎓 University Goal:** Sharif University of Technology
-**💻 Long-Term Direction:** Computer Science & Software Engineering
+**💻 Long-Term Direction:** Computer Engineering
 
 > **From mathematics and problem solving → to algorithms, software and technology.**
 
